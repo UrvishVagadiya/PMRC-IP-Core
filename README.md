@@ -10,7 +10,7 @@ The **PMRC-IP-Core** is a high-performance hardware and software intellectual pr
 ## 📈 Key Mathematical Breakthroughs
 * **Logarithmic Complexity:** Eliminates sequential dependencies to achieve a true $O(\log k)$ time complexity.
 * **Kogge-Stone Lineage:** Maps complex RNS reconstruction to a parallel prefix tree architecture, maximizing throughput.
-* **Verified Soundness:** Supported by a formal inductive proof and cross-validated across Python, C++, and SystemVerilog.
+* **Verified Soundness:** Supported by a formal inductive proof and cross-validated for $k$ = 256 across Python, C++, and SystemVerilog.
 
 ## 📦 The Deliverables
 
@@ -42,7 +42,7 @@ The **PMRC-IP-Core** is available for commercial licensing, including options fo
 
 **For commerical licensing inquiries please contact:**
 
-Licensing Agent - Joshua Eugene Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmail.com)
+Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmail.com)
 
 ---
 *Copyright © 2026 Jonathan Alan Reed. Software provided under AGPL-3.0. Commercial use requires a separate license agreement.*
